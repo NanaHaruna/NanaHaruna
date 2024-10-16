@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/TBD)
+- <b>Published research projects </b>
+  - [scRNA-seq analysis on human immune cells on R](https://github.com/NanaHaruna/HumanGranulocyte_scRNAseq_Analysis)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/TBD)
