@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nana! <br/><a href="https://github.com/NanaHaruna">PhD Candidate</a>, <a href="https://www.linkedin.com/in/nfdh">Biologist, Bioinformatician </a>
+<h1>Hi, I'm Nana! <br/><a href="https://www.linkedin.com/in/nfdh">PhD Candidate</a>, <a href="https://www.linkedin.com/in/nfdh">Biologist, Bioinformatician </a>
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
@@ -17,7 +17,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="NanaHaruna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NanaHaruna | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
