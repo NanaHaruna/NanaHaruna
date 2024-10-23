@@ -6,6 +6,10 @@
   - [scRNA-seq analysis of human immune cells on R](https://github.com/NanaHaruna/HumanGranulocyte_scRNAseq_Analysis)
   - [Data analysis of nasal airway epithelial cells](https://github.com/NanaHaruna/Nasal-airway-epithelial-cells-NAECs-)
 
+- <b>Unpublished projects</b>
+  - [ATAC-seq, Chip-seq, and Hi-C analysis on publically available data sets]
+    
+
     
 <h2>📑 Computational biology and bioinformatics research papers </h2>
 
