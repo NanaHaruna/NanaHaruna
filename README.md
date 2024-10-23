@@ -7,7 +7,7 @@
   - [Data analysis of nasal airway epithelial cells](https://github.com/NanaHaruna/Nasal-airway-epithelial-cells-NAECs-)
 
 - <b>Unpublished projects</b>
-  - ATAC-seq, Chip-seq, and Hi-C analysis on publically available data sets
+  - ATAC-seq, Chip-seq, and Hi-C analysis on publicly available data sets
     
 
     
